@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/CinemaMod/mcef/assets/30220598/938896d7-2589-49df-8f82-29266c64dfb7" alt="MCEF Logo" style="width:66px;height:66px;">
 </p>
-[![](https://jitpack.io/v/MrLyyy/mcef.svg)](https://jitpack.io/#MrLyyy/mcef)
 # MCEF (Minecraft Chromium Embedded Framework)
 A fork of the MCEF mod and library for adding the Chromium web browser into Minecraft.
 
